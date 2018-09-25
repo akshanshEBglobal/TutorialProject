@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
     }
     private void InatilizeProjrctBranch02()
     {
-         //Upto this willappear in branch two
+         //This comment is added in Branch02
     }
 }
