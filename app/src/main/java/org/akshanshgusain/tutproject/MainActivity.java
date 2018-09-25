@@ -20,5 +20,6 @@ public class MainActivity extends AppCompatActivity {
     private void InatilizeProjrctBranch02()
     {
          //This comment is added in Branch02
+        //This is the new comment oin Branch02
     }
 }
