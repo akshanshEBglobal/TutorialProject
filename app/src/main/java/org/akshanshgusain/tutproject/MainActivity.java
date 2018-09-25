@@ -18,7 +18,13 @@ public class MainActivity extends AppCompatActivity {
         int iii = ii+i;
         //This comment is the new change that is being made into Branch01
         //This comment is the new Change that is being made into Branch01
+    }
+    private void InatilizeProjrctBranch02()
+    {
+         //This comment is added in Branch02
+        //This is the new comment oin Branch02
+        //This is the latest change 3:26pm 25/09/18
 
-        //Lesson 4.0 changes
+        //Comment to be reverted
     }
 }
