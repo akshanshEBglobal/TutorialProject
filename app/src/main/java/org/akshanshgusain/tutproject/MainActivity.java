@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
         int ii=2+2;
         int iii = ii+i;
     }
+    private void InatilizeProjrctBranch02()
+    {
+         //Upto this willappear in branch two
+    }
 }
