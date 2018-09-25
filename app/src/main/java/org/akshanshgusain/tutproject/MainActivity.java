@@ -19,4 +19,9 @@ public class MainActivity extends AppCompatActivity {
         //This comment is the new change that is being made into Branch01
         //This comment is the new Change that is being made into Branch01
     }
+    private void InatilizeProjrctBranch02()
+    {
+         //This comment is added in Branch02
+        //This is the new comment oin Branch02
+    }
 }
